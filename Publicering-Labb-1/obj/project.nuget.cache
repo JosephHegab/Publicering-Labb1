@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SeHpE1NbB1VrwsAEa0kpwofW9lHU1aeC+LQmUatxSxVmcBFwImCeL97/TI9wFApDPnPaV7tJavwq2nhG2qb5fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhega\\source\\repos\\Publicering-Labb-1\\Publicering-Labb-1\\Publicering-Labb-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhega\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

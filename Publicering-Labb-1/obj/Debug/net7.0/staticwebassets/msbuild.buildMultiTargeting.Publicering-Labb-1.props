@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Publicering-Labb-1.props" />
+</Project>
